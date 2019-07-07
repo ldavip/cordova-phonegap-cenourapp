@@ -23,8 +23,8 @@
     
     <platform name="android" />
 
-    <icon src="imagens/icon.png" />
+    <icon src="icon.png" />
     <plugin name="cordova-plugin-splashscreen" />
-    <splash src="imagens/splash.png" />
+    <splash src="splash.png" />
 
 </widget>
